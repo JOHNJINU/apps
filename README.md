@@ -1,6 +1,6 @@
 # apps
 
-learn android through bit sized android apps.
+Learn android through bit sized android apps.
 
 First learn java. 
 
